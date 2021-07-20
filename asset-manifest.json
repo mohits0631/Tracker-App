@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mohits0631/Tracker-App/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/mohits0631/Tracker-App/static/js/main.bbd3c342.chunk.js",
-    "main.js.map": "/mohits0631/Tracker-App/static/js/main.bbd3c342.chunk.js.map",
-    "runtime-main.js": "/mohits0631/Tracker-App/static/js/runtime-main.5b95a013.js",
-    "runtime-main.js.map": "/mohits0631/Tracker-App/static/js/runtime-main.5b95a013.js.map",
-    "static/js/2.1b4ba01b.chunk.js": "/mohits0631/Tracker-App/static/js/2.1b4ba01b.chunk.js",
-    "static/js/2.1b4ba01b.chunk.js.map": "/mohits0631/Tracker-App/static/js/2.1b4ba01b.chunk.js.map",
-    "static/js/3.bea06191.chunk.js": "/mohits0631/Tracker-App/static/js/3.bea06191.chunk.js",
-    "static/js/3.bea06191.chunk.js.map": "/mohits0631/Tracker-App/static/js/3.bea06191.chunk.js.map",
-    "index.html": "/mohits0631/Tracker-App/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/mohits0631/Tracker-App/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.1b4ba01b.chunk.js.LICENSE.txt": "/mohits0631/Tracker-App/static/js/2.1b4ba01b.chunk.js.LICENSE.txt"
+    "main.css": "/shreyanshgupta42/Tracker-App/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/shreyanshgupta42/Tracker-App/static/js/main.bbd3c342.chunk.js",
+    "main.js.map": "/shreyanshgupta42/Tracker-App/static/js/main.bbd3c342.chunk.js.map",
+    "runtime-main.js": "/shreyanshgupta42/Tracker-App/static/js/runtime-main.74f6354c.js",
+    "runtime-main.js.map": "/shreyanshgupta42/Tracker-App/static/js/runtime-main.74f6354c.js.map",
+    "static/js/2.6212fd61.chunk.js": "/shreyanshgupta42/Tracker-App/static/js/2.6212fd61.chunk.js",
+    "static/js/2.6212fd61.chunk.js.map": "/shreyanshgupta42/Tracker-App/static/js/2.6212fd61.chunk.js.map",
+    "static/js/3.bea06191.chunk.js": "/shreyanshgupta42/Tracker-App/static/js/3.bea06191.chunk.js",
+    "static/js/3.bea06191.chunk.js.map": "/shreyanshgupta42/Tracker-App/static/js/3.bea06191.chunk.js.map",
+    "index.html": "/shreyanshgupta42/Tracker-App/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/shreyanshgupta42/Tracker-App/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6212fd61.chunk.js.LICENSE.txt": "/shreyanshgupta42/Tracker-App/static/js/2.6212fd61.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b95a013.js",
-    "static/js/2.1b4ba01b.chunk.js",
+    "static/js/runtime-main.74f6354c.js",
+    "static/js/2.6212fd61.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.bbd3c342.chunk.js"
   ]
